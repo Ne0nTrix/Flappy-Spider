@@ -1,6 +1,6 @@
 # Flappy Spider
 
-First project using Java for college. <br>
+First project using Java for university. <br>
 Everything was made by one person. <br>
 Aseprite for 2D art and used IntelliJ IDEA to write in Java. <br>
 It's a game inspired by Flappy Bird.
